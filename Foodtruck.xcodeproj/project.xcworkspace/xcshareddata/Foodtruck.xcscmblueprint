@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8BE981C6499939754157300F53F8234D678AE062",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8BE981C6499939754157300F53F8234D678AE062" : 9223372036854775807,
+    "7D71177F0545FAD760457D107667B2EB8DF6640C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "74BA9508-787B-4C98-B2B1-7BF2F17F7F64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8BE981C6499939754157300F53F8234D678AE062" : "iOS-Delegates-1-FoodTruck\/",
+    "7D71177F0545FAD760457D107667B2EB8DF6640C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Foodtruck",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Foodtruck.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalhoussari\/ObjectOrientedDesignConcepts.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D71177F0545FAD760457D107667B2EB8DF6640C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Delegates-1-FoodTruck.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8BE981C6499939754157300F53F8234D678AE062"
+    }
+  ]
+}
